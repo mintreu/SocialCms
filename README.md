@@ -1,2 +1,2 @@
-# scms
+# SocialCms
 Social Content Managment System
